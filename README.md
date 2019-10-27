@@ -9,7 +9,7 @@ The codes include:
 
 
 The result product is available through Cluster science archive ('LSTAR' product).
-When using the 'LSTAR' product please add the DOI for this code to references.
+##### When using the 'LSTAR' product please add the DOI for this code to references: 10.5281/zenodo.3519999.
 
 
 
