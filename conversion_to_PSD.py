@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import scipy.io as io
 from scipy import optimize
-import matplotlib.pyplot as plt
 
 
 """ Assign some variables """
