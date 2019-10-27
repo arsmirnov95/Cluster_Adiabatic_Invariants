@@ -1,11 +1,11 @@
-# Adiabatic Invariants Calculations for Cluster mission: codes.
+# Adiabatic Invariants Calculations for Cluster Mission: codes.
 
 ### Codes for Phase Space Density (PSD) conversion of Cluster/RAPID/IES electron data.
 
 The codes include:
 * matlab script to compute the second invariant K
 * Python script to compute Lstars with 1-min resolution
-* set of Python functions to convert Cluster/RAPID/IES electron flux to 
+* set of Python functions to convert Cluster/RAPID/IES electron flux to PSD
 
 
 The result product is available through Cluster science archive ('LSTAR' product).
